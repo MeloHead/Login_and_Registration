@@ -1,0 +1,12 @@
+/* h1 {
+    color:red;
+} */
+
+.registration_side, .login_side{
+    display: inline-block;
+    margin: 0px 25px ;
+}
+
+    .user_f_and_l_name {
+        display: inline-block;
+    }
